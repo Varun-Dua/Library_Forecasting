@@ -1,0 +1,12 @@
+name: Forecasting
+title: Forecasting
+username:
+account: varun-dua-nuig
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2544682
+bundleId: 3362652
+url: https://varun-dua-nuig.shinyapps.io/Forecasting/
+when: 1594130866.56773
+asMultiple: FALSE
+asStatic: FALSE
